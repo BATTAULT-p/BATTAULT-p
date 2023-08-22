@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on improving Portfolio.<br>🌱 I’m currently learning Express.<br>👨‍💻 All of my projects are available at https://paulbattault.fr/<br>📫 How to reach me paulbattault@gmail.com.<br>
+:yak: I’m currently working for Yalink.<br>🌱 I’m currently learning Typescript and Next.js.<br>👨‍💻 All of my projects are available at https://paulbattault.fr/<br>📫 How to reach me paulbattault@gmail.com.<br>
 
 
 ## 🌐 Socials:
