@@ -1,5 +1,5 @@
 # 💫 About Me:
-:yak: I’m currently working for Yalink.<br>🌱 I’m currently learning Typescript and Next.js.<br>👨‍💻 All of my projects are available at https://paulbattault.fr/<br>📫 How to reach me paulbattault@gmail.com.<br>
+🦬 I’m currently working for Yalink.<br>🌱 I’m currently learning Typescript and Next.js.<br>👨‍💻 All of my projects are available at https://paulbattault.fr/<br>📫 How to reach me paulbattault@gmail.com.<br>
 
 
 ## 🌐 Socials:
